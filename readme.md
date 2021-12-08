@@ -1,3 +1,3 @@
 ### Image to text desktop app
 
-extract text from images using **cli**
+extract text from images using **OCR**
